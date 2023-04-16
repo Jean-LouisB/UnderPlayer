@@ -1,6 +1,9 @@
 export class Mot{
     private _mot: string =''
-    
+    /**
+     * Pour le moment inutile
+     * 
+     */
     constructor(){
 
     }
