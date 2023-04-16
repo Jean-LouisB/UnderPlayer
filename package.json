@@ -2,7 +2,8 @@
   "name": "underplayer",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "dist/bundle.js",
+  "git":"https://github.com/Jean-LouisB/UnderPlayer.git",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
